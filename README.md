@@ -22,7 +22,7 @@ The <strong>YouTube Ad Accelerator and Skipper</strong> is your guardian against
 <h2>Installation</h2>
 
 <ol>
-  <li><strong>Download:</strong> Grab the latest release from the <a href="">Here</a>.</li>
+  <li><strong>Download:</strong> Grab the latest release from the <a href="https://github.com/gauravzack12/youTube-ads-Skipper/archive/refs/heads/main.zip">Here</a>.</li>
   <li><strong>Unpack:</strong> Extract the contents of the ZIP file.</li>
   <li><strong>Developer Mode:</strong> In Chrome, open 'Extensions', and enable 'Developer Mode'.</li>
   <li><strong>Load Extension:</strong> Choose 'Load unpacked' and navigate to the extension folder.</li>
